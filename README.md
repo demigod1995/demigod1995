@@ -1,7 +1,7 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto">
-<h3 class="heading-element" dir="auto">
+<p class="heading-element" dir="auto">
 Full Stack Developer with 8+ years of experience building scalable web, mobile, and blockchain applications. Skilled in JavaScript, TypeScript, Python, PHP, and Ruby, with a strong focus on clean architecture, performance, and scalable system design. Specialized in blockchain development including smart contracts (Solidity, Rust), Web3 integrations, DeFi platforms, and token/coin development. Passionate about delivering production-ready solutions, solving real-world problems, and collaborating with teams to build reliable and scalable digital products.
-</h3>
+</p>
 
 <markdown-accessiblity-table data-catalyst=""><table>
   <tbody>
